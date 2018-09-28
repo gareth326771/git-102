@@ -1,0 +1,23 @@
+body {
+	margin:0;
+	font-size: 100px;
+	font-family: Helvitica;
+
+}
+
+h1 {
+	font-size: 200px;
+	font-family: Helvitica;
+}
+
+p {
+	font-size: 200px;
+	font-family: Helvitica;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+}
